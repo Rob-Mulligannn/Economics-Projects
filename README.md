@@ -5,6 +5,7 @@ Currently included are:
 2) My advanced econometrics project predicting the UK's Labour Party's success of hitting their macroeconomic targets
 3) My econometrics project from 3rd year which investigated if the happiest people in the US were still religious using a ordinal logit
 4) A project comparing a signal based trading strategy and a buy-and-hold strategy using the SPY ETF as a predictor.
+5) A small dashboard project which analyses European's trust in politicians and how it varies given different variables. The report is also included
 
 The first three projects are coded in STATA and compiled in either Latex or Word (.do and .dta files attached).
 The fourth project was coded in Python and was a learning exercise as opposed to a full scale project. 
