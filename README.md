@@ -9,3 +9,4 @@ Currently included are:
 
 The first three projects are coded in STATA and compiled in either Latex or Word (.do and .dta files attached).
 The fourth project was coded in Python and was a learning exercise as opposed to a full scale project. 
+The fifth was a learning exercise in Power BI.
